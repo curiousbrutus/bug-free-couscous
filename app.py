@@ -160,7 +160,8 @@ elif selected_tab == translations[lang]["about"]:
     # Experience Section
     st.subheader(translations[lang]["experience"])
     st.write("""
-    - **R&D Scientist Manager** - OpenBrain, Istanbul, Turkey (January 2024–Present)
+    - **R&D Scientist Manager** - OpenBrain, Istanbul, Turkey (2023–Present)
+    
     - **AI Engineer Intern** - 1001 Epochs, Switzerland (Jan 2025–April 2025)
     - **Research Assistant** - University of Oslo, Oslo, Norway (2023–2024)
     """)
